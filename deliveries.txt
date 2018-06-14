@@ -1,0 +1,43 @@
+Depot:
+box
+Address:
+123 NE at	
+Seattle WA 97211
+
+Depot:
+box
+Address:
+123 st
+Portland OR
+97211
+
+Depot:
+Seattle WA
+Description:
+stuff
+Address:
+somewhere
+us
+
+Depot:
+Cambridge, MADescription:
+stuff
+Address:
+324 NE Morgan St	
+PDX
+
+Depot:
+None
+Description:
+
+Address:
+
+
+Depot:
+Cambridge, MA
+Description:
+cheese
+Address:
+me
+
+
